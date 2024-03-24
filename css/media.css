@@ -1,0 +1,152 @@
+@media (max-width: 1143px){
+      .hader-content{
+            flex-direction: column;
+      }
+      
+      .dio{
+            width: 100%;
+            margin-bottom: 140px;
+            margin-top: 140px;
+      }
+}
+@media (max-width: 1166px){
+      .sec1-content{
+            grid-template-columns: repeat(auto-fill, 416px);
+      }
+      .sec2-content{
+            grid-template-columns: repeat(auto-fill, 610px);
+      }
+      
+      
+}
+
+@media (max-width: 1060px){
+      .nav-list{
+            display: none;
+      }
+      .bars{
+            display: flex;
+      }
+}
+@media (max-width: 1044px){
+      .footer{
+            padding: 50px 100px;
+      }
+}
+@media (max-width: 950px){
+      .footer{
+            padding: 25px 50px;
+      }
+      .footer-bottom{
+            gap: 80px;
+      }
+}
+
+@media (max-width: 520px){
+      .right{
+            gap: 12px;
+      }
+}
+@media (max-width: 735px){
+      .dio{
+            width: 526px;
+            padding: 16px 22px;
+            background-color: #E1E1E1;
+            border-radius: 10px;
+            transform: translateY(-130px);
+      }
+      .diom img{
+            width: 146px;
+            height: 174px;
+            
+      }
+      .diom{
+            margin-bottom: 80px;
+            margin-top: 80px;
+      }
+      
+      .card{
+            width: 300px;
+      }
+      .sec1-content{
+            grid-template-columns: repeat(auto-fill, 300px);
+      }
+      .icons{
+            margin-left: 210px;
+      }
+      
+      
+}
+@media (max-width: 630px){
+      .sec2-left{
+            width: 400px;
+      }
+}
+
+@media (max-width: 710px){
+      .whatches{
+            width: 450px;
+      }
+      .whatch{
+            transform: translateX(20px);
+      }
+      .dio{
+            width: 450px;
+      }
+      .diom{
+            transform: translateX(20px);
+      }
+      .footer-bottom{
+            grid-template-columns: repeat(auto-fill, 180px);
+            gap: 40px;
+      }
+      .sec2-content{
+            gap: 100px;
+      }
+      
+}
+@media (max-width: 470px){
+
+      .whatch{
+            flex-direction: column;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            margin-right: 35px;
+      }
+      .diom{
+            flex-direction: column;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            margin-right: 35px;
+      }
+      .whatches{
+            width: 310px;
+      }
+      .dio{
+            width: 310px;
+      }
+}
+@media (max-width: 419px){
+      .sec2-left{
+            width: 300px;
+      }
+      .data{
+            transform: translateY(30px)
+      }
+}
+
+@media (max-width: 400px){
+      .nav-content{
+            flex-direction: column;
+            gap: 15px;
+      }
+      .right{
+            gap: 32px;
+      }
+      .menu{
+            transform: translateY(-10px);
+      }
+      .list2{
+            font-size: 16px;
+      }
+}
